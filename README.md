@@ -10,4 +10,4 @@
 + 반응형 🚀
 + 깃허브 페이지 
 
-(프로젝트 링크)[https://sudale.github.io/CAFE25/index.html]
+[프로젝트 링크](https://sudale.github.io/CAFE25/index.html)
